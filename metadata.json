@@ -1,0 +1,6 @@
+{
+  "name": "Noter",
+  "description": "An immersive developer knowledge base and project documentation hub to track, organize, and manage project dependencies, architecture blueprints, and integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
