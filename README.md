@@ -16,6 +16,38 @@ Track what you're building, why you built it that way, where you are, what's nex
 
 ---
 
+# Screenshots
+
+## Home Dashboard
+
+![Home Dashboard](assets/screenshots/homepage.png)
+
+---
+
+## Project Workspace
+
+![Project Workspace](assets/screenshots/inside-project.png)
+
+---
+
+## Engineering Timeline
+
+![Engineering Timeline](assets/screenshots/adding-phases.png)
+
+---
+
+## Archive
+
+![Archive](assets/screenshots/archived-collection.png)
+
+---
+
+## Settings
+
+![Settings](assets/screenshots/settings.png)
+
+---
+
 ## 🧠 Why Noter?
 
 Most project trackers only answer "what's left to do." Noter goes further — it's built for developers who juggle multiple side projects and hackathon builds, and keeps a running record of:
@@ -48,7 +80,6 @@ No more forgetting why you picked Prisma over raw SQL three weeks ago.
 | Icons | Lucide React |
 | Animation | Motion |
 | Charts | Recharts |
-| AI | Google Gemini API (`@google/genai`) |
 | Server | Express (local dev) |
 
 ## 🚀 Getting Started
@@ -56,7 +87,6 @@ No more forgetting why you picked Prisma over raw SQL three weeks ago.
 ### Prerequisites
 
 - Node.js (v18+ recommended)
-- A [Gemini API key](https://ai.google.dev)
 
 ### Installation
 
@@ -64,14 +94,6 @@ No more forgetting why you picked Prisma over raw SQL three weeks ago.
 git clone https://github.com/Sadiq-Kolakar/Noter.git
 cd Noter
 npm install
-```
-
-### Environment Setup
-
-Create a `.env.local` file in the root directory and add your Gemini API key:
-
-```
-GEMINI_API_KEY=your_api_key_here
 ```
 
 ### Run Locally
