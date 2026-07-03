@@ -12,39 +12,39 @@ Track what you're building, why you built it that way, where you are, what's nex
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Gemini API](https://img.shields.io/badge/Gemini-API-8E75B2?logo=google&logoColor=white)](https://ai.google.dev)
 
-</div>
+--- 
 
----
+## Preview
+### Home Dashboard
 
-# Screenshots
+<p align="center">
+  <img src="assets/screenshots/homepage.png" alt="Homepage" width="900">
+</p>
 
-## Home Dashboard
+### Features
 
-![Home Dashboard](assets/screenshots/homepage.png)
-
----
-
-## Project Workspace
-
-![Project Workspace](assets/screenshots/inside-project.png)
-
----
-
-## Engineering Timeline
-
-![Engineering Timeline](assets/screenshots/adding-phases.png)
-
----
-
-## Archive
-
-![Archive](assets/screenshots/archived-collection.png)
-
----
-
-## Settings
-
-![Settings](assets/screenshots/settings.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/inside-project.png" width="450"><br>
+      <b>Project Workspace</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/adding-phases.png" width="450"><br>
+      <b>Project Timeline</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/archived-collection.png" width="450"><br>
+      <b>Archive</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/settings.png" width="450"><br>
+      <b>Settings</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
