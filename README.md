@@ -115,4 +115,4 @@ Noter/
 
 ## 📄 License
 
-This project is currently unlicensed. Add a license file if you plan to open-source it.
+This is licenced under [LICENCE](LICENCE.md)
