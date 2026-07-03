@@ -12,6 +12,7 @@ Track what you're building, why you built it that way, where you are, what's nex
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Gemini API](https://img.shields.io/badge/Gemini-API-8E75B2?logo=google&logoColor=white)](https://ai.google.dev)
 </div>
+
 --- 
 
 ## Preview
