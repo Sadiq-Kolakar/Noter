@@ -115,4 +115,4 @@ Noter/
 
 ## 📄 License
 
-This is licenced under [LICENCE](LICENCE.md)
+This project is licensed under the [MIT License](LICENSE,md).
